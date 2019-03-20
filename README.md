@@ -7,8 +7,8 @@ Project bootstrapped with [Create React App](https://github.com/facebook/create-
 
 ## Getting started
 - Clone this repo
-- Run `npm link ui-kit-test`
 - Run `npm install` or `yarn install`
+- Run `npm link ui-kit-test`
 - To start the local server on `http://localhost:3000/` run `npm run start` or `yarn start`
 - To make a production build use `npm run build` or `yarn build`
 
